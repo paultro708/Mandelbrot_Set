@@ -1,0 +1,35 @@
+﻿  user_inter.c
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\user_inter.c(14): warning C4013: 'destroy_all' undefined; assuming extern returning int
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\user_inter.c(15): warning C4098: 'user_inter': 'void' function returning a value
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\user_inter.c(21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\user_inter.c(22): warning C4013: 'draw_mandelbort' undefined; assuming extern returning int
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\user_inter.c(27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\user_inter.c(33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\user_inter.c(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\user_inter.c(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\user_inter.c(57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\user_inter.c(67): warning C4098: 'user_inter': 'void' function returning a value
+  main.c
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\main.c(32): warning C4013: 'user_inter' undefined; assuming extern returning int
+  fractal.c
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\fractal.c(10): warning C4047: 'function': 'SDL_Renderer *' differs in levels of indirection from 'SDL_Renderer **'
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\fractal.c(10): warning C4024: 'SDL_DestroyRenderer': different types for formal and actual parameter 1
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\fractal.c(11): warning C4047: 'function': 'SDL_Window *' differs in levels of indirection from 'SDL_Window **'
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\fractal.c(11): warning C4024: 'SDL_DestroyWindow': different types for formal and actual parameter 1
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\fractal.c(37): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\fractal.c(53): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\fractal.c(59): warning C4244: '=': conversion from 'float' to 'Uint8', possible loss of data
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\fractal.c(63): warning C4244: '=': conversion from 'float' to 'Uint8', possible loss of data
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\fractal.c(70): warning C4244: '=': conversion from 'float' to 'Uint8', possible loss of data
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\fractal.c(74): warning C4244: '=': conversion from 'float' to 'Uint8', possible loss of data
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\fractal.c(81): warning C4244: '=': conversion from 'float' to 'Uint8', possible loss of data
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\fractal.c(85): warning C4244: '=': conversion from 'float' to 'Uint8', possible loss of data
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\fractal.c(105): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\fractal.c(107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\fractal.c(109): warning C4013: 'levelSet' undefined; assuming extern returning int
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\fractal.c(114): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\fractal.c(118): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\paulina\documents\studia\pk2[c]\projekty\mandelbrot_fractal\mandelbrot_fractal\fractal.c(120): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Mandelbrot_Fractal.vcxproj -> C:\Users\Paulina\Documents\Studia\pk2[c]\projekty\Mandelbrot_Fractal\x64\Debug\Mandelbrot_Fractal.exe
+  Mandelbrot_Fractal.vcxproj -> C:\Users\Paulina\Documents\Studia\pk2[c]\projekty\Mandelbrot_Fractal\x64\Debug\Mandelbrot_Fractal.pdb (Partial PDB)
